@@ -5,3 +5,17 @@
     width: auto;
     margin-left: 10px;
   }
+
+  /* .combat {
+    @if value >= 0 && <= 10 {
+        color: #ff3f34;
+      } @else if $type == matador {
+        color: red;
+      } @else if $type == monster {
+        color: green;
+      } @else {
+        color: black;
+      }
+  } */
+
+  /* 0 - 10: #ff3f34 11 - 20: #ffd32a21 - 30: #05c46b31 - 40: #3c40c6 */
